@@ -28,9 +28,9 @@ Using logic, we determine what roles are possible for each character such that a
 ## File Structure
 
 knights/
-logic.py # Logic expression and model-checking framework
-knights.py # Definitions of puzzles and their logical modeling
-README.md # Project documentation
+- logic.py # Logic expression and model-checking framework
+- knights.py # Definitions of puzzles and their logical modeling
+- README.md # Project documentation
 
 
 ---
